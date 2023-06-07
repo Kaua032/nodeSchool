@@ -1,0 +1,14 @@
+{
+  "name": "kaua",
+  "version": "1.0.0",
+  "description": "utilizando o npm para modulos externos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaua xavier",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}

@@ -31,7 +31,7 @@ const fs = require('fs')
 //     console.log("File deleted!")
 // })
 
-fs.rename('arquivo2.txt', 'newName.txt', function(err){
-    if(err) throw(err)
-    console.log('Renomeado!')
-})
+// fs.rename('arquivo2.txt', 'newName.txt', function(err){
+//     if(err) throw(err)
+//     console.log('Renomeado!')
+// })
